@@ -1,0 +1,1 @@
+Responsible for tasks and transanctions made on an employee
